@@ -24,8 +24,9 @@
     "prettier": "^2.0.4",
     "supertest": "^4.0.2",
     "ts-jest": "^25.3.1",
-    "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.8.3"
+    "ts-node": "^9.0.0",
+    "ts-node-dev": "github:mmvsk/ts-node-dev#d7e9cfbad414bcc5fc9ddb5cf75a74496a9e4549",
+    "typescript": "^4.0.2"
   },
   "dependencies": {
     "express": "^4.17.1",
